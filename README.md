@@ -1,11 +1,21 @@
-# Hola a todos!
+# Hi, I'm Mauricio from Argentina! 👋
 
-### Mi nombre es Mauricio Boyé, tengo 19 años y soy de Argentina :sun_with_face:
-Actualmente estudio: 
-* Ingeniería en Computación en la Universidad Nacional de Río Negro
 
-![UNRN](https://user-images.githubusercontent.com/78159999/117470372-1d022100-af2d-11eb-81e5-d0b15bf2d188.png)
-* Certified Tech Developer en Digital House 
+## 🚀 About Me
+Education: 
+* ***Certified Tech Developer:***
 
-![DH](https://user-images.githubusercontent.com/78159999/124667504-df1a6e00-de85-11eb-89e5-03e6ffd685fb.png)
 
+    "Certified Tech Developer" is a career thought and designed by Mercado Libre and Globant together with Digital House, where you will learn technical knowledge on IT and a series of fundamental soft skills to get a job in the most revolutionary companies of the moment.
+
+
+
+
+
+## 🛠 Skills
+Digital fundamentals, Front End, Back End, infrastructure, database, learning agility, teamwork, time management, effective communication and professional attitude.
+
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricioboye/)
