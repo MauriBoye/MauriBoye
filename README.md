@@ -3,7 +3,12 @@
 
 ## 🚀 About Me
 Education: 
-* ***Certified Tech Developer:***
+* ***Computer Engineering - UNRN:***
+
+
+    Research in computer science and provide answers to the changing needs of productive and technological development.
+    
+* ***Certified Tech Developer - Digital House:***
 
 
     "Certified Tech Developer" is a career thought and designed by Mercado Libre and Globant together with Digital House, where you will learn technical knowledge on IT and a series of fundamental soft skills to get a job in the most revolutionary companies of the moment.
